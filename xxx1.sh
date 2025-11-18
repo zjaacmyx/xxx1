@@ -31,7 +31,7 @@ sudo ufw status
 
 # 下载配置文件，替换旧配置
 rm -f config.json
-wget https://raw.githubusercontent.com/zjaacd/xxx1/main/config.json
+wget https://raw.githubusercontent.com/zjaacmyx/xxx1/main/config.json
 
 # 提升文件句柄数限制
 ulimit -n 65535
